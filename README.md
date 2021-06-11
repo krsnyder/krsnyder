@@ -4,7 +4,7 @@ What's up! I'm Kirk, a software engineer with a passion for learning
 
 - 🔭 I’m currently working on starting a successful career in tech
 - 🤔 I’m looking for help with bigger and better application testing
-- 💬 Ask me about music
+- 💬 Talk to me about music 🎸
 - 📫 How to reach me: KirkRobertSnyder@Gmail.com, or github!
 - ⚡ Fun fact: Spent most of my life in New Jersey but I was born in Hawaii! 🏖️
 
