@@ -1,24 +1,10 @@
 ### Hi there 👋
 
-What's up! I'm Kirk, a software engineer with a passion for learning
+I'm Kirk, a software engineer with a passion for learning
 
-- 🔭 I’m currently working on starting a successful career in tech
-- 🤔 I’m looking for help with bigger and better application testing
-- 💬 Talk to me about music 🎸
-- 📫 How to reach me: KirkRobertSnyder@Gmail.com, or github!
-- ⚡ Fun fact: Spent most of my life in New Jersey but I was born in Hawaii! 🏖️
+- I recently spent 2 years working on the Virtual Power Plant team at SunPower. My resume can be found here - https://drive.google.com/file/d/13FC9V37QZi0rLm8eTALdK_G1nQ4RO6hw/view?usp=drive_link
 
 <!--
 **krsnyder/krsnyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Lambda School
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
